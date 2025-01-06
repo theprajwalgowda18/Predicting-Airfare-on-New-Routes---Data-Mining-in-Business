@@ -34,3 +34,9 @@ Business Insights:
 
 Impact:
 This project demonstrates the potential of data-driven strategies in optimizing airfare predictions, providing airlines and consultants with actionable insights to improve pricing models and customer satisfaction.
+
+
+Skills and Tools:
+	•	Tools: Analytic Solver, SAP Analytics Cloud, RStudio.
+	•	Techniques: Linear Regression, Decision Tree, Neural Networks, Hyperparameter Tuning, Stepwise Feature Selection.
+	•	Metrics: RMSE, R², MAD (Mean Absolute Deviation).
